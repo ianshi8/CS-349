@@ -1,2 +1,2 @@
 # CS-349
-CS 349: Machine Learning Coursework
+CS 349 Machine Learning Coursework Repository
